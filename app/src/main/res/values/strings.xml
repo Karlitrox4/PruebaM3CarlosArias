@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PruebaM3</string>
+    <string name="correo">Correo</string>
+    <string name="clave">Contraseña</string>
+    <string name="ingresar">login</string>
+    <string name="Pregunta1">¿Están bien las luces?</string>
+    <string name="Pregunta2">Aparatos de Dormitorio</string>
+    <string name="Pregunta3">Cocina y Logia</string>
+    <string name="Pregunta4">Water</string>
+    <string name="si">Si</string>
+    <string name="Pregunta5">Terminaciones</string>
+    <string name="logo">Logo</string>
+    <string name="normal">Normal</string>
+    <string name="regular">Regular</string>
+    <string name="malo">Malo</string>
+    <string name="check">Check</string>
+    <string name="guardar">Guardar</string>
+    <string name="report">Reporte</string>
+</resources>
