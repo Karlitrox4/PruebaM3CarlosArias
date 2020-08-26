@@ -52,6 +52,7 @@
         app:layout_constraintVertical_bias="0.098" />
 
     <Button
+        android:onClick="pasarDe"
         android:id="@+id/InicioDeSesion"
         android:layout_width="130sp"
         android:layout_height="wrap_content"
