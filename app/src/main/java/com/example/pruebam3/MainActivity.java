@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void pasarDe (View view) {
-        Intent intent = new Intent(MainActivity.this, CheckList2.class);
+        Intent intent = new Intent(MainActivity.this, FirstFragment.class);
         startActivity(intent);
     }
 }
